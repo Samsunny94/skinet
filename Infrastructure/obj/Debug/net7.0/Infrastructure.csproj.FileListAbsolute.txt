@@ -1,0 +1,15 @@
+C:\Users\sunny\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\sunny\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\sunny\skinet\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\sunny\skinet\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\sunny\skinet\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\sunny\skinet\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
